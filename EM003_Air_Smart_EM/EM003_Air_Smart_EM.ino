@@ -1,7 +1,6 @@
 /**
  * @brief Meter ID : EM003
  * @author Saad Imtiaz
- * @paragraph 
  * Description:
  * Air Smart EM V 1.20
    Fucntions :
